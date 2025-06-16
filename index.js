@@ -9,6 +9,7 @@ import { Provider } from 'react-redux';
 import store from './src/components/redux/Store';
 import Googlesigninscreen from './src/components/screens/Googlesigninscreen';
 import Analytics from './src/components/screens/Analytics';
+import Githubscreen from './src/components/screens/Githubscreen';
 
 //AppRegistry.registerComponent(appName, () => App);
 
@@ -20,4 +21,5 @@ const appred=()=>{
 //AppRegistry.registerComponent(appName, () => appred);
 
 //AppRegistry.registerComponent(appName, () => Googlesigninscreen);
-AppRegistry.registerComponent(appName, () => Analytics);
+//AppRegistry.registerComponent(appName, () => Analytics);
+AppRegistry.registerComponent(appName, () => Githubscreen);
