@@ -6,6 +6,7 @@ const Githubscreen = () => {
       <SafeAreaView>
       <Text>Githubscreen</Text>
         <Text>Githubscreen2</Text>
+        <Text>branch 1 added</Text>
     </SafeAreaView>
   )
 }
