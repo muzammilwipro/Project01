@@ -5,8 +5,6 @@ const Githubscreen = () => {
   return (
       <SafeAreaView>
       <Text>Githubscreen</Text>
-        <Text>Githubscreen2</Text>
-        <Text>branch 1 added sucessfully Branch Muzammil</Text>
     </SafeAreaView>
   )
 }
