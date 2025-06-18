@@ -5,6 +5,7 @@ const Githubscreen = () => {
   return (
       <SafeAreaView>
       <Text>Githubscreen</Text>
+      <Text>Muzammil sharif</Text>
     </SafeAreaView>
   )
 }
